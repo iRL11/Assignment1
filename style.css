@@ -87,10 +87,11 @@ h1{
      background-color: #0B0D17;
      color: #EDF5F6;
      text-align: center;
-     padd
-     
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+        
  }
 
- .lineheight{
-    line-height: 3.8;
- }
+ 
