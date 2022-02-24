@@ -24,6 +24,10 @@ h1{
     display: flex;
     margin-bottom: 149px;
 }
+.mymissionmarginbottom{
+    
+    margin-bottom: 149px;
+}
 
 .flexible-container2{
     display: flex;
@@ -49,4 +53,44 @@ h1{
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     text-align: center;
     font-size: 40px;
+ }
+ .boxcolor1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: #EDF5F6;
+ }
+ .boxcolor2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: #FFEEEE;
+ }
+ .boxcolor3{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: #FFF4D6;
+ }
+
+ .footer-font{
+    font-family: 'Redressed', cursive;
+    font-size: 25px;
+ }
+ footer{
+     background-color: #0B0D17;
+     color: #EDF5F6;
+     text-align: center;
+     padd
+     
+ }
+
+ .lineheight{
+    line-height: 3.8;
  }
